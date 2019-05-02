@@ -8,7 +8,7 @@ order: 1
 
 # React Simple Chatbot
 
-Welcome to Marshal Musesum 
+Welcome to Marshal Museum!
 
   <img src="https://s3.amazonaws.com/lexingtonvirginia.com/Museums/_attractionSmall/GCMarshall_GiftShop_3.jpg" alt="Codecov" />
 </a> <a href="https://beerpay.io/LucasBassetti/react-simple-chatbot"><img src="https://beerpzay.io/LucasBassetti/react-simple-chatbot/badge.svg?style=flat" /></a>
